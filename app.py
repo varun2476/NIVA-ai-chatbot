@@ -48,7 +48,7 @@ footer {
 
 API_KEY = os.getenv("GENAI_API_KEY", "YOUR_API_KEY")
 
-client = genai.Client(api_key="AQ.Ab8RN6IvJmdXtbybYlnmahJR31_1KckckbWMf9D9NQaVbJSrIQ")
+client = genai.Client(api_key="YOUR_APIKEY_Here")
 
 
 with st.sidebar:
@@ -57,7 +57,7 @@ with st.sidebar:
 
     st.markdown("### ✨ Features")
     st.write("Gemini AI")
-    st.write("✅ AI Assisstant")
+    st.write("✅ varun")
     st.write("✅ Gemini Models")
     st.write("✅ Fast Responses")
 
