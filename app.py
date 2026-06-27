@@ -57,7 +57,7 @@ with st.sidebar:
 
     st.markdown("### ✨ Features")
     st.write("Gemini AI")
-    st.write("✅ varun")
+    st.write("✅ AI Assistant")
     st.write("✅ Gemini Models")
     st.write("✅ Fast Responses")
 
