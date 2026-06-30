@@ -152,7 +152,7 @@ if prompt:
     )
 
     MODELS = [
-         "gemini-1.5-flash",
+         "gemini-2.5-flash",
     "gemini-1.5-pro"
     ]
 
